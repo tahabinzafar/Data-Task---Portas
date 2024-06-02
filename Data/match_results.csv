@@ -1,114 +1,107 @@
-﻿team,against,date,match_status,game_type,venue,scored_goals,conceded_goals,result
-Chelsea,Tottenham,08/09/2019,Played,Home,Stamford Bridge,1,0,Win
-Chelsea,Brighton,15/09/2019,Played,Away,Checkatrade.com Stadium,1,1,Draw
-Chelsea,Bristol City,29/09/2019,Played,Away,Stoke Gifford Stadium,4,0,Win
-Chelsea,Arsenal,13/10/2019,Played,Home,Cherry Red Records Fans' Stadium,2,1,Win
-Chelsea,West Ham,27/10/2019,Played,Away,Rush Green Stadium,3,1,Win
-Chelsea,Manchester Utd,17/11/2019,Played,Home,Cherry Red Records Fans' Stadium,1,0,Win
-Chelsea,Birmingham City,24/11/2019,Played,Away,Damson Park,6,0,Win
-Chelsea,Manchester City,08/12/2019,Played,Home,Cherry Red Records Fans' Stadium,2,1,Win
-Chelsea,Liverpool,15/12/2019,Played,Away,Prenton Park,1,1,Draw
-Chelsea,Reading,05/01/2020,Played,Home,Cherry Red Records Fans' Stadium,3,1,Win
-Chelsea,Bristol City,12/01/2020,Played,Home,Cherry Red Records Fans' Stadium,6,1,Win
-Chelsea,Arsenal,19/01/2020,Played,Away,Meadow Park,4,1,Win
-Chelsea,West Ham,02/02/2020,Played,Home,Cherry Red Records Fans' Stadium,8,0,Win
-Chelsea,Birmingham City,12/02/2020,Played,Home,Cherry Red Records Fans' Stadium,2,0,Win
-Chelsea,Manchester City,23/02/2020,Played,Away,Academy Stadium,3,3,Draw
-Chelsea,Everton,22/03/2020,Cancelled,Home,Cherry Red Records Fans' Stadium,NA,NA,Draw
-Chelsea,Tottenham,29/03/2020,Cancelled,Away,The Hive Stadium,NA,NA,Draw
-Chelsea,Brighton,05/04/2020,Cancelled,Home,Cherry Red Records Fans' Stadium,NA,NA,Draw
-Chelsea,Reading,26/04/2020,Cancelled,Away,Adams Park,NA,NA,Draw
-Chelsea,Everton,03/05/2020,Cancelled,Away,Walton Hall Park,NA,NA,Draw
-Chelsea,Manchester Utd,12/05/2020,Cancelled,Away,Leigh Sports Village Stadium,NA,NA,Draw
-Chelsea,Liverpool,16/05/2020,Cancelled,Home,Cherry Red Records Fans' Stadium,NA,NA,Draw
-Chelsea,Manchester Utd,06/09/2020,Played,Away,Leigh Sports Village Stadium,1,1,Draw
-Chelsea,Bristol City,13/09/2020,Played,Home,Cherry Red Records Fans' Stadium,9,0,Win
-Chelsea,Birmingham City,04/10/2020,Played,Away,SportNation.bet Stadium,1,0,Win
-Chelsea,Manchester City,11/10/2020,Played,Home,Cherry Red Records Fans' Stadium,3,1,Win
-Chelsea,Everton,08/11/2020,Played,Home,Cherry Red Records Fans' Stadium,4,0,Win
-Chelsea,Arsenal,15/11/2020,Played,Away,Meadow Park,1,1,Draw
-Chelsea,West Ham,06/12/2020,Played,Home,Cherry Red Records Fans' Stadium,3,2,Win
-Chelsea,Brighton,13/12/2020,Played,Away,The People’s Pension Stadium,1,0,Win
-Chelsea,Reading,10/01/2021,Played,Away,Madejski Stadium,5,0,Win
-Chelsea,Manchester Utd,17/01/2021,Played,Home,Cherry Red Records Fans' Stadium,2,1,Win
-Chelsea,Aston Villa,27/01/2021,Played,Away,The Banks's Stadium,4,0,Win
-Chelsea,Tottenham,31/01/2021,Played,Home,Cherry Red Records Fans' Stadium,4,0,Win
-Chelsea,Brighton,07/02/2021,Played,Home,Cherry Red Records Fans' Stadium,1,2,Loss
-Chelsea,Arsenal,10/02/2021,Played,Home,Cherry Red Records Fans' Stadium,3,0,Win
-Chelsea,Bristol City,14/02/2021,Played,Away,Twerton Park Stadium,5,0,Win
-Chelsea,West Ham,07/03/2021,Played,Away,Chigwell Construction Stadium,2,0,Win
-Chelsea,Everton,17/03/2021,Played,Away,Walton Hall Park,3,0,Win
-Chelsea,Aston Villa,28/03/2021,Played,Home,Cherry Red Records Fans' Stadium,2,0,Win
-Chelsea,Birmingham City,04/04/2021,Played,Home,Cherry Red Records Fans' Stadium,6,0,Win
-Chelsea,Manchester City,21/04/2021,Played,Away,Academy Stadium,2,2,Draw
-Chelsea,Tottenham,05/05/2021,Played,Away,The Hive Stadium,2,0,Win
-Chelsea,Reading,09/05/2021,Played,Home,Cherry Red Records Fans' Stadium,5,0,Win
-Chelsea,Arsenal,05/09/2021,Played,Away,Emirates Stadium,2,3,Loss
-Chelsea,Everton,12/09/2021,Played,Home,Cherry Red Records Fans' Stadium,4,0,Win
-Chelsea,Manchester Utd,26/09/2021,Played,Away,Leigh Sports Village Stadium,6,1,Win
-Chelsea,Brighton,02/10/2021,Played,Home,Cherry Red Records Fans' Stadium,3,1,Win
-Chelsea,Leicester City,10/10/2021,Played,Home,Cherry Red Records Fans' Stadium,2,0,Win
-Chelsea,Aston Villa,06/11/2021,Played,Away,The Banks's Stadium,1,0,Win
-Chelsea,Manchester City,14/11/2021,Played,Away,Academy Stadium,4,0,Win
-Chelsea,Birmingham City,21/11/2021,Played,Home,Cherry Red Records Fans' Stadium,5,0,Win
-Chelsea,Reading,11/12/2021,Played,Away,Select Car Leasing Stadium,0,1,Loss
-Chelsea,Brighton,23/01/2022,Played,Away,The People’s Pension Stadium,0,0,Draw
-Chelsea,West Ham,26/01/2022,Played,Home,Cherry Red Records Fans' Stadium,2,0,Win
-Chelsea,Manchester City,06/02/2022,Played,Home,Cherry Red Records Fans' Stadium,1,0,Win
-Chelsea,Arsenal,11/02/2022,Played,Home,Cherry Red Records Fans' Stadium,0,0,Draw
-Chelsea,West Ham,10/03/2022,Played,Away,Chigwell Construction Stadium,4,1,Win
-Chelsea,Aston Villa,13/03/2022,Played,Home,Cherry Red Records Fans' Stadium,1,0,Win
-Chelsea,Everton,16/03/2022,Played,Away,Walton Hall Park,3,0,Win
-Chelsea,Leicester City,27/03/2022,Played,Away,King Power Stadium,9,0,Win
-Chelsea,Reading,03/04/2022,Played,Home,Cherry Red Records Fans' Stadium,5,0,Win
-Chelsea,Tottenham,24/04/2022,Played,Away,The Hive Stadium,3,1,Win
-Chelsea,Tottenham,28/04/2022,Played,Home,Cherry Red Records Fans' Stadium,2,1,Win
-Chelsea,Birmingham City,01/05/2022,Played,Away,St Andrew's Trillion Trophy Stadium,1,0,Win
-Chelsea,Manchester Utd,08/05/2022,Played,Home,Cherry Red Records Fans' Stadium,4,2,Win
-Chelsea,Liverpool,18/09/2022,Played,Away,Prenton Park,1,2,Loss
-Chelsea,Manchester City,25/09/2022,Played,Home,Cherry Red Records Fans' Stadium,2,0,Win
-Chelsea,West Ham,28/09/2022,Played,Home,Stamford Bridge,3,1,Win
-Chelsea,Everton,16/10/2022,Played,Away,Walton Hall Park,3,1,Win
-Chelsea,Brighton,23/10/2022,Played,Away,The People’s Pension Stadium,2,0,Win
-Chelsea,Aston Villa,30/10/2022,Played,Home,Cherry Red Records Fans' Stadium,3,1,Win
-Chelsea,Manchester Utd,06/11/2022,Played,Away,Leigh Sports Village Stadium,3,1,Win
-Chelsea,Tottenham,20/11/2022,Played,Home,Stamford Bridge,3,0,Win
-Chelsea,Leicester City,03/12/2022,Played,Away,King Power Stadium,8,0,Win
-Chelsea,Reading,11/12/2022,Played,Home,Cherry Red Records Fans' Stadium,3,2,Win
-Chelsea,Arsenal,15/01/2023,Played,Away,Emirates Stadium,1,1,Draw
-Chelsea,Tottenham,05/02/2023,Played,Away,The Breyer Group Stadium,3,2,Win
-Chelsea,Brighton,08/03/2023,Played,Home,Cherry Red Records Fans' Stadium,3,1,Win
-Chelsea,Manchester Utd,12/03/2023,Played,Home,Cherry Red Records Fans' Stadium,1,0,Win
-Chelsea,Manchester City,26/03/2023,Played,Away,Academy Stadium,0,2,Loss
-Chelsea,Aston Villa,02/04/2023,Played,Away,Poundland Bescot Stadium,3,0,Win
-Chelsea,Liverpool,03/05/2023,Played,Home,Cherry Red Records Fans' Stadium,2,1,Win
-Chelsea,Everton,07/05/2023,Played,Home,Cherry Red Records Fans' Stadium,7,0,Win
-Chelsea,Leicester City,10/05/2023,Played,Home,Cherry Red Records Fans' Stadium,6,0,Win
-Chelsea,West Ham,17/05/2023,Played,Away,Chigwell Construction Stadium,4,0,Win
-Chelsea,Arsenal,21/05/2023,Played,Home,Cherry Red Records Fans' Stadium,2,0,Win
-Chelsea,Reading,27/05/2023,Played,Away,Select Car Leasing Stadium,3,0,Win
-Chelsea,Tottenham,01/10/2023,Played,Home,Stamford Bridge,2,1,Win
-Chelsea,Manchester City,08/10/2023,Played,Away,Joie Stadium,1,1,Draw
-Chelsea,West Ham,14/10/2023,Played,Home,Cherry Red Records Fans' Stadium,2,0,Win
-Chelsea,Brighton,22/10/2023,Played,Home,Cherry Red Records Fans' Stadium,4,2,Win
-Chelsea,Aston Villa,04/11/2023,Played,Away,Poundland Bescot Stadium,6,0,Win
-Chelsea,Everton,12/11/2023,Played,Away,Walton Hall Park,3,0,Win
-Chelsea,Liverpool,18/11/2023,Played,Home,Stamford Bridge,5,1,Win
-Chelsea,Leicester City,26/11/2023,Played,Home,Cherry Red Records Fans' Stadium,5,2,Win
-Chelsea,Arsenal,10/12/2023,Played,Away,Emirates Stadium,1,4,Loss
-Chelsea,Bristol City,17/12/2023,Played,Away,Ashton Gate Stadium,3,0,Win
-Chelsea,Manchester Utd,21/01/2024,Played,Home,Stamford Bridge,3,1,Win
-Chelsea,Brighton,27/01/2024,Played,Away,Broadfield Stadium,3,0,Win
-Chelsea,Everton,04/02/2024,Played,Home,Cherry Red Records Fans' Stadium,3,0,Win
-Chelsea,Manchester City,16/02/2024,Played,Home,Cherry Red Records Fans' Stadium,0,1,Loss
-Chelsea,Leicester City,03/03/2024,Played,Away,King Power Stadium,4,0,Win
-Chelsea,Arsenal,15/03/2024,Played,Home,Stamford Bridge,3,1,Win
-Chelsea,West Ham,24/03/2024,Played,Away,Chigwell Construction Stadium,2,0,Win
-Chelsea,Tottenham,31/03/2024,Fixture,Away,Gaughan Group Stadium,NA,NA,Draw
-Chelsea,Aston Villa,17/04/2024,Played,Home,Cherry Red Records Fans' Stadium,3,0,Win
-Chelsea,Aston Villa,21/04/2024,Fixture,Home,Cherry Red Records Fans' Stadium,NA,NA,Draw
-Chelsea,Liverpool,28/04/2024,Fixture,Away,Prenton Park,NA,NA,Draw
-Chelsea,Liverpool,01/05/2024,Fixture,Away,Prenton Park,NA,NA,Draw
-Chelsea,Bristol City,05/05/2024,Fixture,Home,Cherry Red Records Fans' Stadium,NA,NA,Draw
-Chelsea,Tottenham,15/05/2024,Fixture,Away,Gaughan Group Stadium,NA,NA,Draw
-Chelsea,Manchester Utd,18/05/2024,Fixture,Away,Old Trafford,NA,NA,Draw
+﻿team,against,date,match_status,game_type,venue,scored_goals,conceded_goals,result,covid
+Chelsea,Tottenham,08/09/2019,Played,Home,Stamford Bridge,1,0,Win,0
+Chelsea,Brighton,15/09/2019,Played,Away,Checkatrade.com Stadium,1,1,Draw,0
+Chelsea,Bristol City,29/09/2019,Played,Away,Stoke Gifford Stadium,4,0,Win,0
+Chelsea,Arsenal,13/10/2019,Played,Home,Cherry Red Records Fans' Stadium,2,1,Win,0
+Chelsea,West Ham,27/10/2019,Played,Away,Rush Green Stadium,3,1,Win,0
+Chelsea,Manchester Utd,17/11/2019,Played,Home,Cherry Red Records Fans' Stadium,1,0,Win,0
+Chelsea,Birmingham City,24/11/2019,Played,Away,Damson Park,6,0,Win,0
+Chelsea,Manchester City,08/12/2019,Played,Home,Cherry Red Records Fans' Stadium,2,1,Win,0
+Chelsea,Liverpool,15/12/2019,Played,Away,Prenton Park,1,1,Draw,0
+Chelsea,Reading,05/01/2020,Played,Home,Cherry Red Records Fans' Stadium,3,1,Win,0
+Chelsea,Bristol City,12/01/2020,Played,Home,Cherry Red Records Fans' Stadium,6,1,Win,0
+Chelsea,Arsenal,19/01/2020,Played,Away,Meadow Park,4,1,Win,0
+Chelsea,West Ham,02/02/2020,Played,Home,Cherry Red Records Fans' Stadium,8,0,Win,0
+Chelsea,Birmingham City,12/02/2020,Played,Home,Cherry Red Records Fans' Stadium,2,0,Win,0
+Chelsea,Manchester City,23/02/2020,Played,Away,Academy Stadium,3,3,Draw,0
+Chelsea,Liverpool,16/05/2020,Cancelled,Home,Cherry Red Records Fans' Stadium,0,0,Draw,1
+Chelsea,Manchester Utd,06/09/2020,Played,Away,Leigh Sports Village Stadium,1,1,Draw,0
+Chelsea,Bristol City,13/09/2020,Played,Home,Cherry Red Records Fans' Stadium,9,0,Win,0
+Chelsea,Birmingham City,04/10/2020,Played,Away,SportNation.bet Stadium,1,0,Win,0
+Chelsea,Manchester City,11/10/2020,Played,Home,Cherry Red Records Fans' Stadium,3,1,Win,0
+Chelsea,Everton,08/11/2020,Played,Home,Cherry Red Records Fans' Stadium,4,0,Win,0
+Chelsea,Arsenal,15/11/2020,Played,Away,Meadow Park,1,1,Draw,0
+Chelsea,West Ham,06/12/2020,Played,Home,Cherry Red Records Fans' Stadium,3,2,Win,0
+Chelsea,Brighton,13/12/2020,Played,Away,The People’s Pension Stadium,1,0,Win,0
+Chelsea,Reading,10/01/2021,Played,Away,Madejski Stadium,5,0,Win,0
+Chelsea,Manchester Utd,17/01/2021,Played,Home,Cherry Red Records Fans' Stadium,2,1,Win,0
+Chelsea,Aston Villa,27/01/2021,Played,Away,The Banks's Stadium,4,0,Win,0
+Chelsea,Tottenham,31/01/2021,Played,Home,Cherry Red Records Fans' Stadium,4,0,Win,0
+Chelsea,Brighton,07/02/2021,Played,Home,Cherry Red Records Fans' Stadium,1,2,Loss,0
+Chelsea,Arsenal,10/02/2021,Played,Home,Cherry Red Records Fans' Stadium,3,0,Win,0
+Chelsea,Bristol City,14/02/2021,Played,Away,Twerton Park Stadium,5,0,Win,0
+Chelsea,West Ham,07/03/2021,Played,Away,Chigwell Construction Stadium,2,0,Win,0
+Chelsea,Everton,17/03/2021,Played,Away,Walton Hall Park,3,0,Win,0
+Chelsea,Aston Villa,28/03/2021,Played,Home,Cherry Red Records Fans' Stadium,2,0,Win,0
+Chelsea,Birmingham City,04/04/2021,Played,Home,Cherry Red Records Fans' Stadium,6,0,Win,0
+Chelsea,Manchester City,21/04/2021,Played,Away,Academy Stadium,2,2,Draw,0
+Chelsea,Tottenham,05/05/2021,Played,Away,The Hive Stadium,2,0,Win,0
+Chelsea,Reading,09/05/2021,Played,Home,Cherry Red Records Fans' Stadium,5,0,Win,0
+Chelsea,Arsenal,05/09/2021,Played,Away,Emirates Stadium,2,3,Loss,0
+Chelsea,Everton,12/09/2021,Played,Home,Cherry Red Records Fans' Stadium,4,0,Win,0
+Chelsea,Manchester Utd,26/09/2021,Played,Away,Leigh Sports Village Stadium,6,1,Win,0
+Chelsea,Brighton,02/10/2021,Played,Home,Cherry Red Records Fans' Stadium,3,1,Win,0
+Chelsea,Leicester City,10/10/2021,Played,Home,Cherry Red Records Fans' Stadium,2,0,Win,0
+Chelsea,Aston Villa,06/11/2021,Played,Away,The Banks's Stadium,1,0,Win,0
+Chelsea,Manchester City,14/11/2021,Played,Away,Academy Stadium,4,0,Win,0
+Chelsea,Birmingham City,21/11/2021,Played,Home,Cherry Red Records Fans' Stadium,5,0,Win,0
+Chelsea,Reading,11/12/2021,Played,Away,Select Car Leasing Stadium,0,1,Loss,0
+Chelsea,Brighton,23/01/2022,Played,Away,The People’s Pension Stadium,0,0,Draw,0
+Chelsea,West Ham,26/01/2022,Played,Home,Cherry Red Records Fans' Stadium,2,0,Win,0
+Chelsea,Manchester City,06/02/2022,Played,Home,Cherry Red Records Fans' Stadium,1,0,Win,0
+Chelsea,Arsenal,11/02/2022,Played,Home,Cherry Red Records Fans' Stadium,0,0,Draw,0
+Chelsea,West Ham,10/03/2022,Played,Away,Chigwell Construction Stadium,4,1,Win,0
+Chelsea,Aston Villa,13/03/2022,Played,Home,Cherry Red Records Fans' Stadium,1,0,Win,0
+Chelsea,Everton,16/03/2022,Played,Away,Walton Hall Park,3,0,Win,0
+Chelsea,Leicester City,27/03/2022,Played,Away,King Power Stadium,9,0,Win,0
+Chelsea,Reading,03/04/2022,Played,Home,Cherry Red Records Fans' Stadium,5,0,Win,0
+Chelsea,Tottenham,24/04/2022,Played,Away,The Hive Stadium,3,1,Win,0
+Chelsea,Tottenham,28/04/2022,Played,Home,Cherry Red Records Fans' Stadium,2,1,Win,0
+Chelsea,Birmingham City,01/05/2022,Played,Away,St Andrew's Trillion Trophy Stadium,1,0,Win,0
+Chelsea,Manchester Utd,08/05/2022,Played,Home,Cherry Red Records Fans' Stadium,4,2,Win,0
+Chelsea,Liverpool,18/09/2022,Played,Away,Prenton Park,1,2,Loss,0
+Chelsea,Manchester City,25/09/2022,Played,Home,Cherry Red Records Fans' Stadium,2,0,Win,0
+Chelsea,West Ham,28/09/2022,Played,Home,Stamford Bridge,3,1,Win,0
+Chelsea,Everton,16/10/2022,Played,Away,Walton Hall Park,3,1,Win,0
+Chelsea,Brighton,23/10/2022,Played,Away,The People’s Pension Stadium,2,0,Win,0
+Chelsea,Aston Villa,30/10/2022,Played,Home,Cherry Red Records Fans' Stadium,3,1,Win,0
+Chelsea,Manchester Utd,06/11/2022,Played,Away,Leigh Sports Village Stadium,3,1,Win,0
+Chelsea,Tottenham,20/11/2022,Played,Home,Stamford Bridge,3,0,Win,0
+Chelsea,Leicester City,03/12/2022,Played,Away,King Power Stadium,8,0,Win,0
+Chelsea,Reading,11/12/2022,Played,Home,Cherry Red Records Fans' Stadium,3,2,Win,0
+Chelsea,Arsenal,15/01/2023,Played,Away,Emirates Stadium,1,1,Draw,0
+Chelsea,Tottenham,05/02/2023,Played,Away,The Breyer Group Stadium,3,2,Win,0
+Chelsea,Brighton,08/03/2023,Played,Home,Cherry Red Records Fans' Stadium,3,1,Win,0
+Chelsea,Manchester Utd,12/03/2023,Played,Home,Cherry Red Records Fans' Stadium,1,0,Win,0
+Chelsea,Manchester City,26/03/2023,Played,Away,Academy Stadium,0,2,Loss,0
+Chelsea,Aston Villa,02/04/2023,Played,Away,Poundland Bescot Stadium,3,0,Win,0
+Chelsea,Liverpool,03/05/2023,Played,Home,Cherry Red Records Fans' Stadium,2,1,Win,0
+Chelsea,Everton,07/05/2023,Played,Home,Cherry Red Records Fans' Stadium,7,0,Win,0
+Chelsea,Leicester City,10/05/2023,Played,Home,Cherry Red Records Fans' Stadium,6,0,Win,0
+Chelsea,West Ham,17/05/2023,Played,Away,Chigwell Construction Stadium,4,0,Win,0
+Chelsea,Arsenal,21/05/2023,Played,Home,Cherry Red Records Fans' Stadium,2,0,Win,0
+Chelsea,Reading,27/05/2023,Played,Away,Select Car Leasing Stadium,3,0,Win,0
+Chelsea,Tottenham,01/10/2023,Played,Home,Stamford Bridge,2,1,Win,0
+Chelsea,Manchester City,08/10/2023,Played,Away,Joie Stadium,1,1,Draw,0
+Chelsea,West Ham,14/10/2023,Played,Home,Cherry Red Records Fans' Stadium,2,0,Win,0
+Chelsea,Brighton,22/10/2023,Played,Home,Cherry Red Records Fans' Stadium,4,2,Win,0
+Chelsea,Aston Villa,04/11/2023,Played,Away,Poundland Bescot Stadium,6,0,Win,0
+Chelsea,Everton,12/11/2023,Played,Away,Walton Hall Park,3,0,Win,0
+Chelsea,Liverpool,18/11/2023,Played,Home,Stamford Bridge,5,1,Win,0
+Chelsea,Leicester City,26/11/2023,Played,Home,Cherry Red Records Fans' Stadium,5,2,Win,0
+Chelsea,Arsenal,10/12/2023,Played,Away,Emirates Stadium,1,4,Loss,0
+Chelsea,Bristol City,17/12/2023,Played,Away,Ashton Gate Stadium,3,0,Win,0
+Chelsea,Manchester Utd,21/01/2024,Played,Home,Stamford Bridge,3,1,Win,0
+Chelsea,Brighton,27/01/2024,Played,Away,Broadfield Stadium,3,0,Win,0
+Chelsea,Everton,04/02/2024,Played,Home,Cherry Red Records Fans' Stadium,3,0,Win,0
+Chelsea,Manchester City,16/02/2024,Played,Home,Cherry Red Records Fans' Stadium,0,1,Loss,0
+Chelsea,Leicester City,03/03/2024,Played,Away,King Power Stadium,4,0,Win,0
+Chelsea,Arsenal,15/03/2024,Played,Home,Stamford Bridge,3,1,Win,0
+Chelsea,West Ham,24/03/2024,Played,Away,Chigwell Construction Stadium,2,0,Win,0
+Chelsea,Aston Villa,17/04/2024,Played,Home,Cherry Red Records Fans' Stadium,3,0,Win,0
+Chelsea,Aston Villa,21/04/2024,Fixture,Home,Cherry Red Records Fans' Stadium,NA,NA,Fixture,0
+Chelsea,Liverpool,28/04/2024,Fixture,Away,Prenton Park,NA,NA,Fixture,0
+Chelsea,Liverpool,01/05/2024,Fixture,Away,Prenton Park,NA,NA,Fixture,0
+Chelsea,Bristol City,05/05/2024,Fixture,Home,Cherry Red Records Fans' Stadium,NA,NA,Fixture,0
+Chelsea,Tottenham,15/05/2024,Fixture,Away,Gaughan Group Stadium,NA,NA,Fixture,0
+Chelsea,Manchester Utd,18/05/2024,Fixture,Away,Old Trafford,NA,NA,Fixture,0
