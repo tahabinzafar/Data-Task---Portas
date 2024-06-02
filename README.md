@@ -12,4 +12,4 @@ This folder holds the matches data used for the analysis in the Jupyter notebook
 
 ## Analysis Sheets
 
-This folder might contains additional analysis sheets.
+This folder contains additional analysis sheets.
